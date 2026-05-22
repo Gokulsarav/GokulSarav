@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About Me
 
-[Software Developer with **2+ years** of experience in building responsive and scalable web applications using **JavaScript, React, HTML, and CSS**. Experienced in **API integration, real-time data handling, and enterprise-level projects**, with a strong focus on **performance, usability, and clean UI design**.
+Software Developer with **2+ years** of experience in building responsive and scalable web applications using **JavaScript, React, HTML, and CSS**. Experienced in **API integration, real-time data handling, and enterprise-level projects**, with a strong focus on **performance, usability, and clean UI design**.
 
 Currently working as a **Junior Software Developer at Realtech GPS PVT LTD**, where I design and develop scalable web applications, maintain existing systems, and optimize codebases for performance and scalability.
 
-> *"Building interfaces that are not just functional, but intuitive and performant."*](https://camo.githubusercontent.com/b108dc2388739d4cea2bef5cf6909c24a38398e393601fe6be0d7f63327431ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+> *"Building interfaces that are not just functional, but intuitive and performant."*
 
 ---
 

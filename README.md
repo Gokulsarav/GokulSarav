@@ -28,7 +28,7 @@
 
 Software Developer with **2+ years** of experience in building responsive and scalable web applications using **JavaScript, React, HTML, and CSS**. Experienced in **API integration, real-time data handling, and enterprise-level projects**, with a strong focus on **performance, usability, and clean UI design**.
 
-Currently working as a **Junior Software Developer at Realtech GPS PVT LTD**, where I design and develop scalable web applications, maintain existing systems, and optimize codebases for performance and scalability.
+Currently working as a **Software Developer at Realtech GPS PVT LTD**, where I design and develop scalable web applications, maintain existing systems, and optimize codebases for performance and scalability.
 
 > *"Building interfaces that are not just functional, but intuitive and performant."*
 
